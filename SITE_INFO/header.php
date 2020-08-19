@@ -1,0 +1,17 @@
+<?php
+
+$GLOBALS['SITE_INFO'] = array(
+    "DOMAIN"    => "https://DOMAIN",
+    "SITE_NAME" => "SITE NAME",
+    "PHONE"     => "COMPANY PHONE NUMBER",
+    "EMAIL"     => "COMPANY E-MAIL",
+    "EMAIL_ADD" => "ADDITIONAL COMPANY E-MAIL",
+    "COMPANY"   => "COMPANY NAME",
+    "LABEL"     => "COMPANY LABEL",
+    "LOGO"      => "LOGO URL",
+    "LOGO_TEXT" => "COMPANY LOGO TEXT",
+    "ADDRESS"   => "COMPANY ADDRESS",
+    "WORKTIME"  => "COMPANY WORKTIME",
+    "COPYRIGHT" => "COMPANY COPYRIGHT",
+    "COORDS"    => "COMPANY COORDINATES",
+);
