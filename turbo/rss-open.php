@@ -23,4 +23,4 @@ echo '<?xml version="1.0" encoding="Windows-1251"?>'
         <generator>PAGES GENERATOR</generator>
 
         <turbo:analytics type="Yandex" id="YMETRICS_ID"></turbo:analytics>
-        <turbo:analytics id="GOOGLE_ID" type="GOOGLE_ID"> </turbo:analytics>
+        <turbo:analytics id="GOOGLE_ID" type="Google"> </turbo:analytics>
