@@ -17,10 +17,10 @@ echo '<?xml version="1.0" encoding="Windows-1251"?>'
     <channel>
 
         <title>SITE TITLE</title>
-        <link><?=$GLOBALS['site_info']['DOMAIN']?></link>
+        <link><?=$GLOBALS['SITE_INFO']['DOMAIN']?></link>
         <description>SITE DESCRIPTION</description>
         <language>ru</language>
         <generator>PAGES GENERATOR</generator>
 
         <turbo:analytics type="Yandex" id="YMETRICS_ID"></turbo:analytics>
-        <turbo:analytics id="UA-113628857-1" type="GOOGLE_ID"> </turbo:analytics>
+        <turbo:analytics id="GOOGLE_ID" type="GOOGLE_ID"> </turbo:analytics>
