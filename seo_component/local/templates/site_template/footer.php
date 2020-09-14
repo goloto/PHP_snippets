@@ -1,0 +1,1 @@
+<?$APPLICATION->IncludeFile(SITE_TEMPLATE_PATH.'/include/seo_component.php', [], ["MODE"=>"PHP"]);?>
